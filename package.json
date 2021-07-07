@@ -1,0 +1,24 @@
+{
+  "name": "express-sample",
+  "version": "1.0.0",
+  "description": "Sample Express.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemeshjoseph/express-sample.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "JavaScript"
+  ],
+  "author": "Jemesh Joseph <jemesh.joseph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jemeshjoseph/express-sample/issues"
+  },
+  "homepage": "https://github.com/jemeshjoseph/express-sample#readme"
+}
